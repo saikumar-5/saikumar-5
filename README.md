@@ -33,7 +33,7 @@
 ### 📌 Featured Projects
 
 - 🔐 [**PhishX**](https://github.com/saikumar-5/PhishX) – Real-time phishing URL detection.
-- 📉 [**Stock Sentiment Analysis**](https://github.com/saikumar-5/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment) – Predicts market trends from tweets.
+- 📉 [**Stock Sentiment Analysis**]([https://github.com/saikumar-5/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment](https://github.com/saikumar-5/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment-)) – Predicts market trends from tweets.
 - 🛒 [**AgriMart**](https://github.com/abhiram1206/agrimart) – Agriculture-based e-commerce platform.
 - 🌾 [**Fertilizer Recommendation System**](https://github.com/saikumar-5/Crop-Fertilizer-Recommendation-System) – Smart fertilizer suggestions based on soil/crop data.
 
