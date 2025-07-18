@@ -16,6 +16,7 @@
   - Android Development (Java)
   - Fail2Ban with Rust Programming
   - Backend APIs and Security
+  - Malware Analysis
   - Advanced Machine Learning & NLP
 
 - 📫 Reach me at: pamotisaikumar5050@gmail.com  
@@ -36,6 +37,7 @@
 - 📉 [**Stock Sentiment Analysis**](https://github.com/saikumar-5/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment-) – Predicts market trends from tweets.
 - 🛒 [**AgriMart**](https://github.com/abhiram1206/agrimart) – Agriculture-based e-commerce platform.
 - 🌾 [**Fertilizer Recommendation System**](https://github.com/saikumar-5/Crop-Fertilizer-Recommendation-System) – Smart fertilizer suggestions based on soil/crop data.
+- 💻 [**StatAnalyzr**](https://github.com/saikumar-5/StatAnalyzr) - A static malware analysis tool.
 
 
 ---
