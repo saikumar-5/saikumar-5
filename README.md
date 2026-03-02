@@ -1,68 +1,118 @@
-<h1 align="center">Hi 👋, I'm Sai Kumar</h1>
-<h3 align="center">A passionate developer building real-world solutions using Machine Learning, Cybersecurity, and Android apps.</h3>
+<div align="center">
+
+<h1>Sai Kumar</h1>
+
+<p>
+Full Stack Engineer • AI Systems Builder • Cybersecurity Developer
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Application+Developer;Cybersecurity+Tool+Builder;Full+Stack+Engineer;Hackathon+Finalist;Research+Driven+Problem+Solver" />
+
+</div>
 
 ---
 
-### 🚀 About Me
-- 🔐 Cybersecurity Enthusiast with a passion for safe and smart systems
-- 🔭 Currently working on **Android Apps**, **Security Tools**, and **ML Projects**
-- 🌱 Learning **Java**, **ML Models**, and **Advanced Cyber Defense**
+## About
 
-- 🔭 I’m currently working on:
-  - 👮‍♂️ **IPS (Intrusion Prevention System)** – A smart system to detect and block threats.
-  - 🌾 **Farmers Admin Panel** – Admin dashboard for an ecomerece based farming-related Android platform.
+I design and build intelligent systems combining  
+Artificial Intelligence, Cybersecurity, and Scalable Backend Architectures.
 
-- 🌱 I’m learning:
-  - Android Development (Java)
-  - Fail2Ban with Rust Programming
-  - Backend APIs and Security
-  - Malware Analysis
-  - Advanced Machine Learning & NLP
+- B.Tech CSE — CGPA 8.90  
+- 2nd Place — PGRS-RTGS Govt Hackathon  
+- Top 15 — IIT Delhi CNIPC  
+- Dean’s Scholarship Awardee  
 
-- 📫 Reach me at: pamotisaikumar5050@gmail.com  
+Focused on real-world AI automation, multilingual NLP, and defensive security systems.
 
 ---
 
-### 🧠 Tech Stack
-- Python
-- Java
-- Web Technologies
-- C++
-- SQL
----
+## Tech Stack
 
-### 📌 Featured Projects
+### Languages
 
-- 🔐 [**PhishX**](https://github.com/saikumar-5/PhishX) – Real-time phishing URL detection.
-- 📉 [**Stock Sentiment Analysis**](https://github.com/saikumar-5/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment-) – Predicts market trends from tweets.
-- 🛒 [**AgriMart**](https://github.com/abhiram1206/agrimart) – Agriculture-based e-commerce platform.
-- 🌾 [**Fertilizer Recommendation System**](https://github.com/saikumar-5/Crop-Fertilizer-Recommendation-System) – Smart fertilizer suggestions based on soil/crop data.
-- 💻 [**StatAnalyzr**](https://github.com/saikumar-5/StatAnalyzr) - A static malware analysis tool.
-
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### Frameworks & Tools
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumar-5&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-5&layout=compact&theme=radical)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+</p>
 
 ---
 
-🔧 *Open-source believer | Security enthusiast | Continuous learner*
+## Featured Projects
 
+### ShikshaLok — AI Multilingual Content Localization Engine
+LLM-powered pipeline for speaker diarization, transcription and translation.  
+Built using PyTorch, Whisper, IndicTrans2.
 
-<!--
-**saikumar-5/saikumar-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+→ https://github.com/saikumar-5/ShikshaLok
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### StatAnalyzr — Static Malware Analysis Tool
+Security tool for automated static inspection and threat intelligence extraction.
+
+---
+
+### IPS — Intrusion Prevention System
+Automated detection and blocking of malicious activity.
+
+---
+
+### AgriMart — Agriculture Marketplace
+Full-stack platform with JWT authentication and role-based dashboards.
+
+---
+
+## Achievements
+
+- 2nd Place — PGRS-RTGS Hackathon (Govt of Andhra Pradesh)
+- Top 15 Finalist — CNIPC, IIT Delhi
+- Top 8 Finalist — Maruti Suzuki Innovation Challenge
+- Dean’s Scholarship Awardee
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikumar-5&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-5&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumar-5&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
+
+<a href="mailto:pamotisaikumar5050@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+Add LinkedIn here.
+
+---
+
+<p align="center">
+Build Secure. Build Intelligent. Build Impactful.
+</p>
