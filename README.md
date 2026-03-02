@@ -2,35 +2,28 @@
 
 <h1>Sai Kumar</h1>
 
-<p>
-Full Stack Engineer • AI Systems Builder • Cybersecurity Developer
-</p>
+AI Systems Engineer • Cybersecurity Developer • Full Stack Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Application+Developer;Cybersecurity+Tool+Builder;Full+Stack+Engineer;Hackathon+Finalist;Research+Driven+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+LLM+Driven+Applications;Designing+Defensive+Security+Systems;Engineering+Scalable+Backends" />
 
 </div>
 
 ---
 
-## About
+## Engineering Focus
 
-I design and build intelligent systems combining  
-Artificial Intelligence, Cybersecurity, and Scalable Backend Architectures.
-
-- B.Tech CSE — CGPA 8.90  
-- 2nd Place — PGRS-RTGS Govt Hackathon  
-- Top 15 — IIT Delhi CNIPC  
-- Dean’s Scholarship Awardee  
-
-Focused on real-world AI automation, multilingual NLP, and defensive security systems.
+- AI & LLM-based systems  
+- Cybersecurity tooling & automation  
+- Backend architecture & API systems  
+- Multilingual NLP pipelines  
+- Production-ready full-stack applications  
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -39,11 +32,8 @@ Focused on real-world AI automation, multilingual NLP, and defensive security sy
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
----
-
-### Frameworks & Tools
-
-<p align="left">
+### Frameworks & Infrastructure
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
@@ -56,41 +46,66 @@ Focused on real-world AI automation, multilingual NLP, and defensive security sy
 
 ---
 
-## Featured Projects
-
-### ShikshaLok — AI Multilingual Content Localization Engine
-LLM-powered pipeline for speaker diarization, transcription and translation.  
-Built using PyTorch, Whisper, IndicTrans2.
-
-→ https://github.com/saikumar-5/ShikshaLok
+# Selected Projects
 
 ---
 
-### StatAnalyzr — Static Malware Analysis Tool
-Security tool for automated static inspection and threat intelligence extraction.
+### ShikshaLok  
+**AI-Powered Multilingual Content Localization Engine**
+
+System Architecture:
+- Speaker diarization  
+- Voice identification  
+- Transcription (Whisper)  
+- Translation pipeline (IndicTrans2)  
+- Modular multilingual processing  
+
+Stack: Python • PyTorch • SpeechBrain • Whisper • NLP
+
+Repository:  
+https://github.com/saikumar-5/ShikshaLok
 
 ---
 
-### IPS — Intrusion Prevention System
-Automated detection and blocking of malicious activity.
+### StatAnalyzr  
+**Static Malware Analysis Engine**
+
+Capabilities:
+- File metadata extraction  
+- Indicator of compromise detection  
+- Static behavioral inspection  
+- Security triage automation  
+
+Stack: Python • Security Tooling
 
 ---
 
-### AgriMart — Agriculture Marketplace
-Full-stack platform with JWT authentication and role-based dashboards.
+### IPS  
+**Intrusion Prevention System**
+
+Capabilities:
+- Real-time detection rules  
+- Automated blocking logic  
+- Defensive monitoring  
+
+Stack: Python • System Security
 
 ---
 
-## Achievements
+### AgriMart  
+**Full Stack Agricultural Marketplace**
 
-- 2nd Place — PGRS-RTGS Hackathon (Govt of Andhra Pradesh)
-- Top 15 Finalist — CNIPC, IIT Delhi
-- Top 8 Finalist — Maruti Suzuki Innovation Challenge
-- Dean’s Scholarship Awardee
+Features:
+- Role-based dashboards  
+- JWT authentication  
+- Order & notification tracking  
+- Modular backend APIs  
+
+Stack: Node.js • Express • MongoDB • JavaScript
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
@@ -103,16 +118,13 @@ Full-stack platform with JWT authentication and role-based dashboards.
 
 ---
 
-## Connect
+## Contact
 
-<a href="mailto:pamotisaikumar5050@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-Add LinkedIn here.
+📧 pamotisaikumar5050@gmail.com  
+🔗 https://www.linkedin.com/in/sai-kumar-pamoti/
 
 ---
 
 <p align="center">
-Build Secure. Build Intelligent. Build Impactful.
+Design. Secure. Automate.
 </p>
