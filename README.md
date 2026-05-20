@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,50:111827,100:1F2937&text=Sai%20Kumar%20Pamoti&fontColor=58A6FF&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B0F19,50:111827,100:1F2937&text=Sai%20Kumar%20Pamoti&fontColor=58A6FF&fontSize=48&fontAlignY=42&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Applied+AI+•+Full+Stack+•+Intelligent+Systems;Engineering+Production-Grade+Applications;Building+Retrieval+and+AI+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Systems;Applied+AI+•+Full+Stack+•+Cybersecurity;Engineering+Intelligent+Infrastructure"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sai-kumar-pamoti/">
+<a href="https://linkedin.com/in/sai-kumar-pamoti">
 <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
@@ -20,25 +20,19 @@
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ5NWFkOWI5MzQ3ODU5M2NhY2Q3NmZhMjc5ZmNlMDMxNTE5YzQ4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%"/>
-
-</div>
-
----
-
 # About Me
 
 ```txt
 → Applied AI & Full Stack Engineer
 
 → Building multilingual retrieval systems,
-  AI-powered workflows, scalable backend architectures,
+  scalable backend architectures,
+  AI-powered workflows,
   and security-focused tooling.
 
-→ Interested in intelligent infrastructure,
-  production AI systems, and retrieval engineering.
+→ Interested in production AI systems,
+  retrieval engineering,
+  and intelligent infrastructure.
 ```
 
 ---
@@ -59,13 +53,13 @@
 → Semantic Retrieval Systems
 → Production AI Workflows
 → Intelligent Search
-→ Security Tooling
 → Scalable Backend Architectures
+→ Security Tooling
 ```
 
 ---
 
-# GitHub Activity
+# GitHub Stats
 
 <div align="center">
 
@@ -85,6 +79,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRjN2RmOWY3NzQ5M2M0NGEzNzljZjVjMGVkY2Q2NjI0YTZkNjQ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQ8k0AtQPu/giphy.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
 
 </div>
