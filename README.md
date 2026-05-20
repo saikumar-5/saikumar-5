@@ -1,84 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B0F19,50:111827,100:1F2937&text=Sai%20Kumar%20Pamoti&fontColor=58A6FF&fontSize=48&fontAlignY=42&animation=fadeIn"/>
+<!-- /// HERO SEQUENCE /// -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Intelligent+Systems+Builder;Full+Stack+Engineer;Cybersecurity+Tool+Developer" alt="Initialization Sequence" />
 
-<br/>
+<p align="center">
+  <em>Building intelligent systems, scalable applications, and retrieval infrastructure.</em>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Systems;Applied+AI+•+Full+Stack+•+Cybersecurity;Engineering+Intelligent+Infrastructure"/>
+</div>
 
-<br/>
+<br>
 
-<a href="https://linkedin.com/in/sai-kumar-pamoti">
-<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+### /// ARCHITECTURE & FOCUS
+Engineering intelligent workflows, defensive security protocols, and high-fidelity retrieval infrastructure. Bridging applied artificial intelligence with production-grade full-stack environments.
+
+**Current Operating Parameters:**
+* `::` Retrieval Systems & Vector Search
+* `::` Production AI Workflows
+* `::` Intelligent Search & Semantics
+* `::` Defensive Security Tooling
+* `::` Scalable Backend Architectures
+
+<br>
+
+### /// DEPLOYMENT HISTORY
+
+**Innodatatics** ▰ *Full Stack Engineer Intern*
+> Architected LLM-driven automation frameworks and engineered scalable full-stack ecosystems integrating dynamic AI models for autonomous workflows.
+
+**Durbhasi Gurukulam** ▰ *Cybersecurity Tool Developer*
+> Engineered a high-performance Rust-based IPS integrated with Fail2Ban, alongside a static malware analysis engine for automated vulnerability triage and threat reporting.
+
+**BML Munjal University** ▰ *Research Assistant*
+> Applied machine learning algorithms and statistical methods to optimize manufacturing workflows and interdisciplinary industrial research initiatives.
+
+<br>
+
+### /// CORE INFRASTRUCTURE
+
+**[01] DocSearch**
+Offline multilingual semantic retrieval engine engineered for air-gapped data sovereignty.
+> ⋄ **Architecture:** TF-IDF + FAISS hybrid retrieval, semantic chunking, local LLM reranking, optical character recognition.
+> ⋄ **Stack:** Python, FAISS, PyTorch, OCR, NLP
+
+**[02] Language-Agnostic Speaker Intelligence System**
+End-to-end NLP pipeline for high-precision audio intelligence and multilingual processing.
+> ⋄ **Architecture:** Speaker diarization, speaker identification, automated Whisper transcription, and IndicTrans2 translation.
+> ⋄ **Stack:** Python, PyTorch, Whisper, SpeechBrain
+
+**[03] StatAnalyzr & Rust IPS**
+Defensive security tooling focused on automated vulnerability assessment and network intrusion prevention.
+> ⋄ **Architecture:** Automated packet inspection, Fail2Ban threat blocking, static malware triage, and automated reporting.
+> ⋄ **Stack:** Rust, Python, Fail2Ban, Wireshark
+
+**[04] AgriMart**
+Highly scalable digital marketplace platform designed for rapid throughput and secure transactions.
+> ⋄ **Architecture:** Asynchronous notification systems, secure JWT authentication, and robust RESTful API endpoints.
+> ⋄ **Stack:** Node.js, Express.js, MongoDB, React
+
+<br>
+
+<div align="center">
+
+### /// TECHNICAL STACK
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,rust,react,nodejs,express,mongodb,mysql,pytorch,opencv,docker,linux,git&theme=dark" alt="Technical Stack" />
 </a>
 
-<a href="mailto:pamotisaikumar5050@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
-</a>
+<br><br><br>
 
-</div>
+### /// SYSTEM METRICS
 
----
+<br>
 
-# About Me
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=090C10&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_color=161B22&hide_border=false" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&bg_color=090C10&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_color=161B22&hide_border=false" width="48%" alt="GitHub Streak" />
 
-```txt
-→ Applied AI & Full Stack Engineer
+<br><br>
 
-→ Building multilingual retrieval systems,
-  scalable backend architectures,
-  AI-powered workflows,
-  and security-focused tooling.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=090C10&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=false&border_color=161B22" width="97%" alt="Activity Graph" />
 
-→ Interested in production AI systems,
-  retrieval engineering,
-  and intelligent infrastructure.
-```
+<br><br><br>
 
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,rust,react,nodejs,express,mongodb,mysql,pytorch,docker,linux,git"/>
-
-</div>
-
----
-
-# Current Focus
-
-```txt
-→ Semantic Retrieval Systems
-→ Production AI Workflows
-→ Intelligent Search
-→ Scalable Backend Architectures
-→ Security Tooling
-```
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saikumar-5&show_icons=true&theme=outrun&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-5&theme=outrun&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumar-5&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
+<p align="center">
+  <code>STATUS: ONLINE</code> ▰ <code>SYS.OP: NOMINAL</code>
+</p>
 
 </div>
